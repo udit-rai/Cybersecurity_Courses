@@ -1,2 +1,35 @@
-# Cybersecurity_Courses
+# Cybersecurity Workshops Slides 
+
+## 📌 Overview
+
+This repository contains a collection of cybersecurity training slides originally developed for multi-day workshops. These materials were created as part of my previous role, where I led the design of foundational and intermediate content for live security training sessions.
+
+While the company has since shifted its focus to AI and sunsetted the workshop series, I’ve received permission to release **modified versions** of the slides here. Proprietary software references and third-party media have been removed in accordance with licensing and usage rights.
+
+## 📂 What's Included
+
+- Edited slide decks covering key cybersecurity concepts
+- Courses:
+  - Cybersecurity for Women and Bullied Persons (Harassment.pdf)
+  - Cybersecurity for High-Risk Persons
+  - Small Office Home Office Network Security
+  - Cybersecurity Principles for Enterprise Networks
+  - Cyberwarfare Principles for Large-Sized/High-Risk Networks
+
+> Note: These are **presentation-only materials**. No exercises, labs, proprietary tools, or instructor notes are included in this release.
+
+## 🔒 Intended Use
+
+This content is provided for educational and community benefit. You are free to:
+- Use the slides to support your own workshops or self-study
+- Build upon them for nonprofit training efforts
+- Reference them in presentations, with attribution
+
+If you find them useful or adapt them for your own use, I’d love to hear about it!
+
+## 📬 Contact
+
+For questions, feedback, or collaboration opportunities, feel free to open an issue or reach out via the contact details in my GitHub profile.
+
+---
 
