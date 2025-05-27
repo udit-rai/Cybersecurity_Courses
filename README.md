@@ -10,8 +10,8 @@ While the company has since shifted its focus to AI and sunsetted the workshop s
 
 - Edited slide decks covering key cybersecurity concepts
 - Courses:
-  - Cybersecurity for Women and Bullied Persons (Harassment.pdf)
-  - Cybersecurity for High-Risk Persons
+  - Cybersecurity for Women and Bullied Persons (women.pdf)
+  - Cybersecurity for High-Risk Persons (High_Risk.pdf)
   - Small Office Home Office Network Security
   - Cybersecurity Principles for Enterprise Networks
   - Cyberwarfare Principles for Large-Sized/High-Risk Networks
