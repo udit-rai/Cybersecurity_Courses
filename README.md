@@ -12,7 +12,7 @@ While the company has since shifted its focus to AI and sunsetted the workshop s
 - Courses:
   - Cybersecurity for Women and Bullied Persons (women.pdf)
   - Cybersecurity for High-Risk Persons (High_Risk.pdf)
-  - Small Office Home Office Network Security
+  - Small Office Home Office Network Security (soho.pdf)
   - Cybersecurity Principles for Enterprise Networks
   - Cyberwarfare Principles for Large-Sized/High-Risk Networks
 
