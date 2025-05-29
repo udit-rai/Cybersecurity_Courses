@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains a collection of cybersecurity training slides originally developed for multi-day workshops. These materials were created as part of my previous role, where I led the design and development of both cybersecurity content and solutions.
+This repository contains a collection of cybersecurity training slides originally developed for live in-person workshops. These materials were created as part of my previous role, where I led the design and development of both cybersecurity content and solutions.
 
 While the company has since shifted its focus to AI and benched the series, I’ve received permission to release **modified versions** of the slides here. 
 
