@@ -6,6 +6,9 @@ This repository contains a collection of cybersecurity training slides originall
 
 While the company has since shifted its focus to AI and sunsetted the workshop series, I’ve received permission to release **modified versions** of the slides here. Proprietary software references and third-party media have been removed in accordance with licensing and usage rights.
 
+Note: These were developed in the later part of 2024, while they provide a solid foundation; you should look up recent attacks and
+case studies to know of the latest trends.
+ 
 ## 📂 What's Included
 
 - Edited slide decks covering key cybersecurity concepts
@@ -13,8 +16,8 @@ While the company has since shifted its focus to AI and sunsetted the workshop s
   - Cybersecurity for Women and Bullied Persons (women.pdf)
   - Cybersecurity for High-Risk Persons (High_Risk.pdf)
   - Small Office Home Office Network Security (soho.pdf)
-  - Cybersecurity Principles for Enterprise Networks
-  - Cyberwarfare Principles for Large-Sized/High-Risk Networks
+  - Cybersecurity Principles for Enterprise Networks (enterprise.pdf)
+  - Cyberwarfare Principles for Large-Sized/High-Risk Networks (Cyberwarfare.pdf)
 
 > Note: These are **presentation-only materials**. No exercises, labs, proprietary tools, or instructor notes are included in this release.
 
