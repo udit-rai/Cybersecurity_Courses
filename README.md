@@ -2,12 +2,11 @@
 
 ## 📌 Overview
 
-This repository contains a collection of cybersecurity training slides originally developed for multi-day workshops. These materials were created as part of my previous role, where I led the design of foundational and intermediate content for live security training sessions.
+This repository contains a collection of cybersecurity training slides originally developed for multi-day workshops. These materials were created as part of my previous role, where I led the design and development of both cybersecurity content and solutions.
 
-While the company has since shifted its focus to AI and sunsetted the workshop series, I’ve received permission to release **modified versions** of the slides here. Proprietary software references and third-party media have been removed in accordance with licensing and usage rights.
+While the company has since shifted its focus to AI and benched the series, I’ve received permission to release **modified versions** of the slides here. 
 
-Note: These were developed in the later part of 2024, while they provide a solid foundation; you should look up recent attacks and
-case studies to know of the latest trends.
+Note: These were developed in the later part of 2024, while they provide a solid foundation; after studying these, you should look up recent attacks and case studies to know of the latest trends (for each audience separately).
  
 ## 📂 What's Included
 
